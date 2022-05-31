@@ -7,7 +7,7 @@
 • [启动前端模板](#index6)  
 • [将资金从一个帐户转移到另一个帐户](#index7)  
 • [停止本地节点](#index8)  
-• [Substrate Tutorials , Substrate 教程](#index98) 
+• [Substrate Tutorials , Substrate 教程](#index98)  
 • [Contact 联系方式](#index99)  
 
 # <span id='index1'>• 什么是Substrate？</span>  
