@@ -7,6 +7,8 @@
 [100 创建自己的第一个 Substrate 区块链](https://github.com/565ee/Substrate_CN/blob/main/100%20%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%20Substrate%20%E5%8C%BA%E5%9D%97%E9%93%BE.md)  
 
 # <span id='index2'>• Middle 中级</span>  
+[102 存在证明](https://github.com/565ee/Substrate_CN/blob/main/102%20%E5%AD%98%E5%9C%A8%E8%AF%81%E6%98%8E.md)   
+
 # <span id='index3'>• Advanve 高级</span>  
 
 # <span id='index99'>• Contact 联系方式</span>  
