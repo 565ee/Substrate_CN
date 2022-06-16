@@ -7,6 +7,7 @@
 [100 创建自己的第一个 Substrate 区块链](https://github.com/565ee/Substrate_CN/blob/main/100%20%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%20Substrate%20%E5%8C%BA%E5%9D%97%E9%93%BE.md)  
 [102 存在证明](https://github.com/565ee/Substrate_CN/blob/main/102%20%E5%AD%98%E5%9C%A8%E8%AF%81%E6%98%8E.md)   
 [104 许可网络](https://github.com/565ee/Substrate_CN/blob/main/104%20%E8%AE%B8%E5%8F%AF%E7%BD%91%E7%BB%9C.md)   
+[106 无叉升级](https://github.com/565ee/Substrate_CN/blob/main/106%20%E6%97%A0%E5%8F%89%E5%8D%87%E7%BA%A7.md)   
 
 # <span id='index2'>• Middle 中级</span>  
 
