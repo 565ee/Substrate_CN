@@ -8,6 +8,8 @@
 [102 polkadot substrate : 存在证明](https://github.com/565ee/Substrate_CN/blob/main/102%20polkadot%20substrate%20:%20%E5%AD%98%E5%9C%A8%E8%AF%81%E6%98%8E.md)   
 [104 polkadot substrate : 许可网络](https://github.com/565ee/Substrate_CN/blob/main/104%20polkadot%20substrate%20:%20%E8%AE%B8%E5%8F%AF%E7%BD%91%E7%BB%9C.md)   
 [106 polkadot substrate : 无叉升级](https://github.com/565ee/Substrate_CN/blob/main/106%20polkadot%20substrate%20:%20%E6%97%A0%E5%8F%89%E5%8D%87%E7%BA%A7.md)   
+[108 polkadot substrate : 私有网络](https://github.com/565ee/Substrate_CN/blob/main/108%20polkadot%20substrate%20:%20%E7%A7%81%E6%9C%89%E7%BD%91%E7%BB%9C.md)   
+[10A polkadot substrate : 节点指标](https://github.com/565ee/Substrate_CN/blob/main/10A%20polkadot%20substrate%20:%20%E8%8A%82%E7%82%B9%E6%8C%87%E6%A0%87.md)   
 
 # <span id='index2'>• Middle 中级</span>  
 
