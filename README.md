@@ -10,6 +10,7 @@
 [106 polkadot substrate : 无叉升级](https://github.com/565ee/Substrate_CN/blob/main/106%20polkadot%20substrate%20:%20%E6%97%A0%E5%8F%89%E5%8D%87%E7%BA%A7.md)   
 [108 polkadot substrate : 私有网络](https://github.com/565ee/Substrate_CN/blob/main/108%20polkadot%20substrate%20:%20%E7%A7%81%E6%9C%89%E7%BD%91%E7%BB%9C.md)   
 [10A polkadot substrate : 节点指标](https://github.com/565ee/Substrate_CN/blob/main/10A%20polkadot%20substrate%20:%20%E8%8A%82%E7%82%B9%E6%8C%87%E6%A0%87.md)   
+[10C polkadot substrate : 添加 pallet 到 runtime](https://github.com/565ee/Substrate_CN/blob/main/10C%20polkadot%20substrate%20:%20%E6%B7%BB%E5%8A%A0%20pallet%20%E5%88%B0%20runtime.md)   
 
 # <span id='index2'>• Middle 中级</span>  
 
