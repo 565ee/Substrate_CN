@@ -12,6 +12,7 @@
 [10A polkadot substrate : 节点指标](https://github.com/565ee/Substrate_CN/blob/main/10A%20polkadot%20substrate%20:%20%E8%8A%82%E7%82%B9%E6%8C%87%E6%A0%87.md)   
 [10C polkadot substrate : 添加 pallet 到 runtime](https://github.com/565ee/Substrate_CN/blob/main/10C%20polkadot%20substrate%20:%20%E6%B7%BB%E5%8A%A0%20pallet%20%E5%88%B0%20runtime.md)   
 [10E polkadot substrate : 配置合约托盘](https://github.com/565ee/Substrate_CN/blob/main/10E%20polkadot%20substrate%20:%20%E9%85%8D%E7%BD%AE%E5%90%88%E7%BA%A6%E6%89%98%E7%9B%98.md)   
+[10G polkadot substrate : 准备一个本地平行链测试网](https://github.com/565ee/Substrate_CN/blob/main/10G%20polkadot%20substrate%20:%20%E5%87%86%E5%A4%87%E4%B8%80%E4%B8%AA%E6%9C%AC%E5%9C%B0%E5%B9%B3%E8%A1%8C%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91.md)   
 
 # <span id='index2'>• Middle 中级</span>  
 
