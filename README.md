@@ -15,6 +15,7 @@
 [10G polkadot substrate : 准备一个本地平行链测试网](https://github.com/565ee/Substrate_CN/blob/main/10G%20polkadot%20substrate%20:%20%E5%87%86%E5%A4%87%E4%B8%80%E4%B8%AA%E6%9C%AC%E5%9C%B0%E5%B9%B3%E8%A1%8C%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91.md)   
 [10I polkadot substrate : 连接本地平行链](https://github.com/565ee/Substrate_CN/blob/main/10I%20polkadot%20substrate%20:%20%E8%BF%9E%E6%8E%A5%E6%9C%AC%E5%9C%B0%E5%B9%B3%E8%A1%8C%E9%93%BE.md)   
 [10K polkadot substrate : 洛可可测试网插槽获取](https://github.com/565ee/Substrate_CN/blob/main/10K%20polkadot%20substrate%20:%20%E6%B4%9B%E5%8F%AF%E5%8F%AF%E6%B5%8B%E8%AF%95%E7%BD%91%E6%8F%92%E6%A7%BD%E8%8E%B7%E5%8F%96.md)   
+[10M polkadot substrate : 你的第一份合约](https://github.com/565ee/Substrate_CN/blob/main/10M%20polkadot%20substrate%20:%20%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%90%88%E7%BA%A6.md)   
 
 # <span id='index2'>• Middle 中级</span>  
 
