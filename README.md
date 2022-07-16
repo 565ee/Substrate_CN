@@ -20,6 +20,7 @@
 [10M polkadot substrate : 你的第一份合约](https://github.com/565ee/Substrate_CN/blob/main/10M%20polkadot%20substrate%20:%20%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%90%88%E7%BA%A6.md)   
 [10O polkadot substrate : 开发智能合约](https://github.com/565ee/Substrate_CN/blob/main/10O%20polkadot%20substrate%20:%20%E5%BC%80%E5%8F%91%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.md)   
 [10Q polkadot substrate : 使用map存储值](https://github.com/565ee/Substrate_CN/blob/main/10Q%20polkadot%20substrate%20:%20%E4%BD%BF%E7%94%A8map%E5%AD%98%E5%82%A8%E5%80%BC.md)   
+[10S polkadot substrate : 建立代币合约](https://github.com/565ee/Substrate_CN/blob/main/10S%20polkadot%20substrate%20:%20%E5%BB%BA%E7%AB%8B%E4%BB%A3%E5%B8%81%E5%90%88%E7%BA%A6.md)   
 
 # <span id='index3'>• Advanve 高级</span>  
 
